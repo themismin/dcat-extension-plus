@@ -1,5 +1,5 @@
 {
-  "name": "celaraze/dcat-extension-plus",
+  "name": "themismin/dcat-extension-plus",
   "description": "增强 DcatAdmin 的使用体验。",
   "alias": "Dcat 增强工具",
   "type": "library",
@@ -7,13 +7,13 @@
     "dcat-admin",
     "extension"
   ],
-  "homepage": "https://github.com/celaraze/dcat-extension-plus",
+  "homepage": "https://github.com/themismin/dcat-extension-plus",
   "license": "MIT",
   "authors": [
-    {
-      "name": "Celaraze",
-      "email": "celaraze@qq.com"
-    }
+      {
+          "name": "themismin",
+          "email": "themismin@gmail.com"
+      }
   ],
   "require": {
     "php": ">=7.3.0",
